@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Design_patterns.dir/main.cpp.o CMakeFiles/Design_patterns.dir/Adapter.cpp.o  -o Design_patterns 

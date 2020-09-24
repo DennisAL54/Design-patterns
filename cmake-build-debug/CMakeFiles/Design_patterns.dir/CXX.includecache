@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dennis/Desktop/Trabajo en clase/Design-patterns/AbstractFactory.cpp
+AbstractFactory.h
+/home/dennis/Desktop/Trabajo en clase/Design-patterns/AbstractFactory.h
+iostream
+-
+
+/home/dennis/Desktop/Trabajo en clase/Design-patterns/AbstractFactory.h
+
+/home/dennis/Desktop/Trabajo en clase/Design-patterns/SIngleton.cpp
+SIngleton.h
+/home/dennis/Desktop/Trabajo en clase/Design-patterns/SIngleton.h
+iostream
+-
+
+/home/dennis/Desktop/Trabajo en clase/Design-patterns/SIngleton.h
+
+/home/dennis/Desktop/Trabajo en clase/Design-patterns/main.cpp
+iostream
+-
+AbstractFactory.cpp
+/home/dennis/Desktop/Trabajo en clase/Design-patterns/AbstractFactory.cpp
+SIngleton.cpp
+/home/dennis/Desktop/Trabajo en clase/Design-patterns/SIngleton.cpp
+
